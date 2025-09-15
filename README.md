@@ -98,13 +98,5 @@ Please make sure to update tests as appropriate and adhere to the code style of 
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-## Contact
-
-For questions or feedback, please reach out to:
-
-- saranshbangad@gmail.com
-- rakiulmalda96@gmail.com
-
----
 
 Made with ❤️ for [SRMIST](https://www.srmist.edu.in/)
