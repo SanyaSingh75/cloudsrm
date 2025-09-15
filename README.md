@@ -92,8 +92,7 @@ Please make sure to update tests as appropriate and adhere to the code style of 
 
 ## Authors
 
-- **Saransh Bangar** - [GitHub](https://www.linkedin.com/in/saransh-bangar/)
-- **Md Rakiul Islam** - [GitHub](https://www.linkedin.com/in/rakiul-islam/)
+- **Sanya Singh** - [GitHub](https://www.linkedin.com/in/sanyasingh75/)
 
 ## License
 
