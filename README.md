@@ -31,7 +31,7 @@ CloudSRM is built with modern technologies:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SaranshBangar/CloudSRM.git
+git clone https://github.com/SanyaSingh75/CloudSRM.git
 cd CloudSRM
 ```
 
